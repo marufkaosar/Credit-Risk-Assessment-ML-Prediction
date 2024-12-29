@@ -1,0 +1,1 @@
+The Credit Risk Assessment project uses machine learning to predict the likelihood of a borrower defaulting on a loan. By analyzing borrowers' financial data, demographics, and loan details, the model classifies them as high or low risk. This helps financial institutions make informed lending decisions, improve profitability, and reduce risk.
